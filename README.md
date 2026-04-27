@@ -27,7 +27,7 @@ Im bad at tutorials so you might need to search some stuff up
 
 **Optional**:
 Uncomment "DISCORD_ALLOWED_USERS" in config.env and add comma seperated userID's. Only users with those id's can use commands.  
-Uncomment "DISCORD_CATEGORY" and change it to something to make computers automatically create/add themselves to that category
+Change "DISCORD_CATEGORY" to something to make computers automatically create/add themselves to that category
 
 
 ### **How To Build**:
