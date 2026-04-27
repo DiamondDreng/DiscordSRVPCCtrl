@@ -15,14 +15,15 @@ If you didn't notice already, i got the name from DiscordSRV. And so the full na
 ### **How To Use/Setup**
 Im bad at tutorials so you might need to search some stuff up  
 **Discord Bot Setup**:
-1. Create a Bot through the Discord developer portal
-2. Enable all 3 gateway intents
-3. Get the Bot Token by clicking Reset Token (save it for later)
-4. Enable Developer mode in discord (search it up. im not explaining)
-5. Right click your discord server to use for controlling computers from and click copy Server ID
-6. Replace "DISCORD_BOT_TOKEN" and "DISCORD_SERVER_ID" in the config.ENV with your Bot token and server id
-7. Transfer config.env and discord-pc-control.exe to the windows machine and run "discord-pc-control.exe --install" to install the program
-8. Restart the machine. You should get a message in your discord server
+1. Get EXE from Releases page or build it. Get config.env from repo if you want a template.
+2. Create a Bot through the Discord developer portal
+3. Enable all 3 gateway intents
+4. Get the Bot Token by clicking Reset Token (save it for later)
+5. Enable Developer mode in discord (search it up. im not explaining)
+6. Right click your discord server to use for controlling computers from and click copy Server ID
+7. Replace "DISCORD_BOT_TOKEN" and "DISCORD_SERVER_ID" in the config.ENV with your Bot token and server id
+8. Transfer config.env and discord-pc-control.exe to the windows machine and run "discord-pc-control.exe --install" to install the program
+9. Restart the machine. You should get a message in your discord server
 
 
 **Optional**:
